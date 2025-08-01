@@ -7,7 +7,7 @@ Dialog.create("Processing Setup");
 Dialog.addNumber("Number of source directories in run:", 4);
 Dialog.show();
 
-number_of_directories = Dialog.getNumber();
+number_of_directories = Dialog.getNumber(); 
 
 
 //setup the variables for the next data entry steps
