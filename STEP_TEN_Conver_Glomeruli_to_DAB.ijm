@@ -1,4 +1,4 @@
-macro "STEP_TEN_Conver_Glomeruli_to_DAB" {
+macro "STEP_NINE_Convert_Glomeruli_to_DAB" {
 default_path = "\\ENTER YOUR PATH HERE\\"
 default_path = "Select path"
 
