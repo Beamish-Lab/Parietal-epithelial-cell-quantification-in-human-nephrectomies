@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/989036892.svg)](https://doi.org/10.5281/zenodo.17050427)
+
 # Parietal-epithelial-cell-quantification-in-human-nephrectomies
 Parietal epithelial cell quantification in human nephrectomies
 
